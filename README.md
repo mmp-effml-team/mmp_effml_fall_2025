@@ -35,7 +35,7 @@
 | 16 сентября | Семинар 02 | Профилирование в Pytorch | [Ноутбук](./Seminars/02-basic-acceleration/seminar/seminar.ipynb) | ¯\\\_(ツ)\_/¯ |
 | 23 сентября | Лекция  03 | Задача инференса | - | ¯\\\_(ツ)\_/¯ |
 | 23 сентября | Семинар  03 | Введение в triton | [Код](./Seminars/03-inerence-challenges/lecture_triton_fp8.py) | ¯\\\_(ツ)\_/¯ |
-| 30 сентября | Лекция  04 | Сжатие нейронных сетей | [Код](./Seminars/04-quantization-sparsification/lecture.pdf) | [Методы сжатия нейронных сетей](./Tasks/task3) |
+| 30 сентября | Лекция  04 | Сжатие нейронных сетей | [Презентация](./Seminars/04-quantization-sparsification/lecture.pdf) | [Методы сжатия нейронных сетей](./Tasks/task3) |
 | 30 сентября | Семинар  04 | Низкая битность в triton | [Код](./Seminars/04-quantization-sparsification/lecture_triton_fp8.py) | ¯\\\_(ツ)\_/¯  |
 | 7 октября | Лекция  05 | Другие методы ускорения инференса | [Ноутбук](./Seminars/05-distillation-specdec/lecture.ipynb) [Ноутбук pdf](./Seminars/05-distillation-specdec/lecture.pdf) | ¯\\\_(ツ)\_/¯  |
 | 7 октября | Семинар  05 | Библиотеки для ускорения инференса | - | ¯\\\_(ツ)\_/¯  |
