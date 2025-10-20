@@ -35,9 +35,9 @@
 | 16 сентября | Семинар 02 | Профилирование в Pytorch | [Ноутбук](./Seminars/02-basic-acceleration/seminar/seminar.ipynb) | ¯\\\_(ツ)\_/¯ |
 | 23 сентября | Лекция  03 | Задача инференса | - | ¯\\\_(ツ)\_/¯ |
 | 23 сентября | Семинар  03 | Введение в triton | [Код](./Seminars/03-inerence-challenges/lecture_triton_fp8.py) | ¯\\\_(ツ)\_/¯ |
-| 30 сентября | Лекция  04 | Сжатие нейронных сетей | [Презентация](./Seminars/04-quantization-sparsification/lecture.pdf) | [Методы сжатия нейронных сетей](./Tasks/task3) |
+| 30 сентября | Лекция  04 | Квантизация и спарсификация | [Презентация](./Seminars/04-quantization-sparsification/lecture.pdf) | [Методы сжатия нейронных сетей](./Tasks/task3) |
 | 30 сентября | Семинар  04 | Низкая битность в triton | [Код](./Seminars/04-quantization-sparsification/lecture_triton_fp8.py) | ¯\\\_(ツ)\_/¯  |
-| 7 октября | Лекция  05 | Другие методы ускорения инференса | [Ноутбук](./Seminars/05-distillation-specdec/lecture.ipynb) [Ноутбук pdf](./Seminars/05-distillation-specdec/lecture.pdf) | ¯\\\_(ツ)\_/¯  |
+| 7 октября | Лекция  05 | Дистилляция и спекулятивный декодинг | [Ноутбук](./Seminars/05-distillation-specdec/lecture.ipynb) [Ноутбук pdf](./Seminars/05-distillation-specdec/lecture.pdf) | ¯\\\_(ツ)\_/¯  |
 | 7 октября | Семинар  05 | Библиотеки для ускорения инференса | - | ¯\\\_(ツ)\_/¯  |
 | 14 октября | Лекция  06 | Работа с большими моделями на одной GPU | - | Работа с большими моделями на одной GPU |
 | 14 октября | Семинар  06 | Граф вычислений с точки зрения эффективности | [Ноутбуки](./Seminars/06-big-models/seminar/) | ¯\\\_(ツ)\_/¯  |
