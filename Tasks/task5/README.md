@@ -22,7 +22,7 @@ https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=context_paral
 - С помощью P2P-операций (send/recv) пересылаем блоки KV ([paper](https://arxiv.org/pdf/2310.01889))
 - Используем онлайн-softmax для финальной агрегации ([paper](https://arxiv.org/pdf/1805.02867))
 
-Задание мы выдаём впервые; обязательно пишите (tg: `@serv01`), если у вас будут вопросы по выполнению.
+Задание мы выдаём впервые; обязательно пишите в чат или (tg: `@serv01`), если у вас будут вопросы по выполнению.
 
 Запуск:
 
