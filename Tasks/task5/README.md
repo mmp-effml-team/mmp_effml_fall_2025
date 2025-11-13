@@ -18,7 +18,7 @@ https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=context_paral
 1. AllGather context parallel (2 балла)
 - Собираем KV и перемножаем с локальным Q
 
-2.RingAttention (3 балла)
+2. RingAttention (3 балла)
 - С помощью P2P-операций (send/recv) пересылаем блоки KV ([paper](https://arxiv.org/pdf/2310.01889))
 - Используем онлайн-softmax для финальной агрегации ([paper](https://arxiv.org/pdf/1805.02867))
 
