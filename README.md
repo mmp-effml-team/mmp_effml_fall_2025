@@ -41,13 +41,13 @@
 | 7 октября | Семинар  05 | Библиотеки для ускорения инференса | - | ¯\\\_(ツ)\_/¯  |
 | 14 октября | Лекция  06 | Работа с большими моделями на одной GPU | [Презентация](./Seminars/06-large-models/lecture.pdf) | [Работа с большими моделями на одной GPU](./Tasks/task4/large_models.ipynb) |
 | 14 октября | Семинар  06 | Граф вычислений с точки зрения эффективности | [Ноутбуки](./Seminars/06-large-models/seminar/) | ¯\\\_(ツ)\_/¯  |
-| 21 октября | Лекция  07 | Введение в распределенные вычисления | - | ¯\\\_(ツ)\_/¯  |
+| 21 октября | Лекция  07 | GPU Clusters | [Презентация](./Seminars/07-gpu-clusters/lecture.pdf) | ¯\\\_(ツ)\_/¯  |
 | 21 октября | Семинар  07 | Основы torch.distributed | - | ¯\\\_(ツ)\_/¯  |
-| 28 октября | Лекция  08 | Операция All Reduce, DDP | - | ¯\\\_(ツ)\_/¯  |
-| 28 октября | Семинар  08 | Реализация All Reduce на torch.distributed, DDP | - | ¯\\\_(ツ)\_/¯  |
-| 11 ноября | Лекция  09 | Fully Sharded Data Parallel | - | FSDP своими руками  |
-| 11 ноября | Семинар  09 | DTensor, Tensor Parallel | - | ¯\\\_(ツ)\_/¯  |
-| 18 ноября | Лекция  09 | Другие виды параллелизма: Tensor & Sequential Parallel, MoE | - | ¯\\\_(ツ)\_/¯  |
+| 28 октября | Лекция  08 | Операция All Reduce, DDP | [Презентация](./Seminars/08-ddp-allreduce/slides.pdf) | ¯\\\_(ツ)\_/¯  |
+| 28 октября | Семинар  08 | Реализация All Reduce на torch.distributed, DDP | [Код](./Seminars/08-ddp-allreduce/README.md) | ¯\\\_(ツ)\_/¯  |
+| 11 ноября | Лекция  09 | Fully Sharded Data Parallel | [Презентация](./Seminars/09-fsdp/lecture.pdf) | FSDP своими руками  |
+| 11 ноября | Семинар  09 | DTensor, Tensor Parallel | [Презентация](./Seminars/09-fsdp/seminar.pdf) | ¯\\\_(ツ)\_/¯  |
+| 18 ноября | Лекция  09 | Другие виды параллелизма: Tensor & Sequential Parallel, MoE | [Презентация](./Seminars/10-parallelisms/lecture.pdf) | ¯\\\_(ツ)\_/¯  |
 | 16 декабря | Лекция  12 | Efficient DL in the Wild | - | ¯\\\_(ツ)\_/¯  |
 
 ## Формат сдачи курса
